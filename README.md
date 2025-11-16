@@ -1,5 +1,5 @@
 # react-native-hyperlink
-[![NPM version](https://badge.fury.io/js/react-native-hyperlink.svg)](http://badge.fury.io/js/react-native-hyperlink) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jondot/awesome-react-native#text--rich-content)
+[![npm version](https://badge.fury.io/js/@volksverpetzer%2Freact-native-hyperlink.svg)](https://badge.fury.io/js/@volksverpetzer%2Freact-native-hyperlink)
 
 A `<Hyperlink />` component for [react-native](http://facebook.github.io/react-native/) & [react-native-web](https://github.com/necolas/react-native-web) that makes urls, fuzzy links, emails etc clickable
 
@@ -89,8 +89,6 @@ export const passPropsText = () =>
   </Hyperlink>
 ```
 
-### Dependenies
- [linkify-it](https://github.com/markdown-it/linkify-it)
 ### Development
 
 PRs highly appreciated

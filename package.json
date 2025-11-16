@@ -40,13 +40,13 @@
 		"autolink",
 		"url"
 	],
-	"repository": "https://github.com/obipawan/react-native-hyperlink",
+	"repository": "https://github.com/volksverpetzer/react-native-hyperlink",
 	"author": "Pawan Kumar",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/obipawan/react-native-hyperlink/issues"
+		"url": "https://github.com/volksverpetzer/react-native-hyperlink/issues"
 	},
-	"homepage": "https://github.com/obipawan/react-native-hyperlink#readme",
+	"homepage": "https://github.com/volksverpetzer/react-native-hyperlink#readme",
 	"publishConfig": {
 		"registry": "https://registry.npmjs.org/",
 		"access": "public"
